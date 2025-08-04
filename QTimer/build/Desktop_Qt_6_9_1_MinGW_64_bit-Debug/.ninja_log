@@ -1,0 +1,27 @@
+# ninja log v6
+12	1487	7760028822641354	QTimer_autogen/timestamp	c1d0696600990d50
+12	1487	7760028822641354	QTimer_autogen/mocs_compilation.cpp	c1d0696600990d50
+12	1487	7760028822641354	D:/QtProject/QTimer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/QTimer_autogen/timestamp	c1d0696600990d50
+12	1487	7760028822641354	D:/QtProject/QTimer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/QTimer_autogen/mocs_compilation.cpp	c1d0696600990d50
+1499	4306	7760028825506757	CMakeFiles/QTimer.dir/QTimer_autogen/mocs_compilation.cpp.obj	b6bcaf3366b47be0
+1523	4434	7760028825764698	CMakeFiles/QTimer.dir/main.cpp.obj	87737deb98c6379e
+13	476	7760028886625063	QTimer_autogen/timestamp	c1d0696600990d50
+13	476	7760028886625063	QTimer_autogen/mocs_compilation.cpp	c1d0696600990d50
+13	476	7760028886625063	D:/QtProject/QTimer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/QTimer_autogen/timestamp	c1d0696600990d50
+13	476	7760028886625063	D:/QtProject/QTimer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/QTimer_autogen/mocs_compilation.cpp	c1d0696600990d50
+477	3061	7760028891276128	CMakeFiles/QTimer.dir/widget.cpp.obj	451c93a6857a3a70
+3062	3553	7760028917105910	QTimer.exe	df1c27e62b0f55f6
+12	614	7760035570165803	QTimer_autogen/timestamp	c1d0696600990d50
+12	614	7760035570165803	QTimer_autogen/mocs_compilation.cpp	c1d0696600990d50
+12	614	7760035570165803	D:/QtProject/QTimer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/QTimer_autogen/timestamp	c1d0696600990d50
+12	614	7760035570165803	D:/QtProject/QTimer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/QTimer_autogen/mocs_compilation.cpp	c1d0696600990d50
+616	3287	7760035576198437	CMakeFiles/QTimer.dir/widget.cpp.obj	451c93a6857a3a70
+3287	3836	7760035602911532	QTimer.exe	df1c27e62b0f55f6
+13	1134	7760036710884109	QTimer_autogen/timestamp	c1d0696600990d50
+13	1134	7760036710884109	QTimer_autogen/mocs_compilation.cpp	c1d0696600990d50
+13	1134	7760036710884109	D:/QtProject/QTimer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/QTimer_autogen/timestamp	c1d0696600990d50
+13	1134	7760036710884109	D:/QtProject/QTimer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/QTimer_autogen/mocs_compilation.cpp	c1d0696600990d50
+1135	4198	7760036712935508	CMakeFiles/QTimer.dir/QTimer_autogen/mocs_compilation.cpp.obj	b6bcaf3366b47be0
+1156	4199	7760036713137146	CMakeFiles/QTimer.dir/main.cpp.obj	87737deb98c6379e
+1178	4265	7760036713395261	CMakeFiles/QTimer.dir/widget.cpp.obj	451c93a6857a3a70
+4266	4798	7760036744224639	QTimer.exe	df1c27e62b0f55f6
