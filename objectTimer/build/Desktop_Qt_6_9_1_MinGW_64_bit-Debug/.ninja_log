@@ -1,0 +1,27 @@
+# ninja log v6
+17	1541	7760003269869516	objectTimer_autogen/timestamp	b17a4f9adde154a6
+17	1541	7760003269869516	objectTimer_autogen/mocs_compilation.cpp	b17a4f9adde154a6
+17	1541	7760003269869516	D:/QtProject/objectTimer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/objectTimer_autogen/timestamp	b17a4f9adde154a6
+17	1541	7760003269869516	D:/QtProject/objectTimer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/objectTimer_autogen/mocs_compilation.cpp	b17a4f9adde154a6
+1553	4641	7760003272902781	CMakeFiles/objectTimer.dir/objectTimer_autogen/mocs_compilation.cpp.obj	e46fa4aa80063af9
+1573	4691	7760003273112078	CMakeFiles/objectTimer.dir/main.cpp.obj	dbfa5831755f00d8
+1597	4807	7760003273359092	CMakeFiles/objectTimer.dir/widget.cpp.obj	5aaaefa4156c3361
+4807	5327	7760003305462233	objectTimer.exe	3c03a6e02840c348
+35	792	7760008529200329	objectTimer_autogen/timestamp	b17a4f9adde154a6
+35	792	7760008529200329	objectTimer_autogen/mocs_compilation.cpp	b17a4f9adde154a6
+35	792	7760008529200329	D:/QtProject/objectTimer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/objectTimer_autogen/timestamp	b17a4f9adde154a6
+35	792	7760008529200329	D:/QtProject/objectTimer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/objectTimer_autogen/mocs_compilation.cpp	b17a4f9adde154a6
+794	3629	7760008536777574	CMakeFiles/objectTimer.dir/widget.cpp.obj	5aaaefa4156c3361
+3629	4281	7760008565134171	objectTimer.exe	3c03a6e02840c348
+40	672	7760013843652252	objectTimer_autogen/timestamp	b17a4f9adde154a6
+40	672	7760013843652252	objectTimer_autogen/mocs_compilation.cpp	b17a4f9adde154a6
+40	672	7760013843652252	D:/QtProject/objectTimer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/objectTimer_autogen/timestamp	b17a4f9adde154a6
+40	672	7760013843652252	D:/QtProject/objectTimer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/objectTimer_autogen/mocs_compilation.cpp	b17a4f9adde154a6
+674	3552	7760013849988791	CMakeFiles/objectTimer.dir/widget.cpp.obj	5aaaefa4156c3361
+3553	4131	7760013878763546	objectTimer.exe	3c03a6e02840c348
+21	616	7760015629205947	objectTimer_autogen/timestamp	b17a4f9adde154a6
+21	616	7760015629205947	objectTimer_autogen/mocs_compilation.cpp	b17a4f9adde154a6
+21	616	7760015629205947	D:/QtProject/objectTimer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/objectTimer_autogen/timestamp	b17a4f9adde154a6
+21	616	7760015629205947	D:/QtProject/objectTimer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/objectTimer_autogen/mocs_compilation.cpp	b17a4f9adde154a6
+617	3527	7760015635165342	CMakeFiles/objectTimer.dir/widget.cpp.obj	5aaaefa4156c3361
+14	523	7760015883425612	objectTimer.exe	3c03a6e02840c348
